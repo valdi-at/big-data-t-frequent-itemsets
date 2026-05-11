@@ -1,12 +1,12 @@
-# Crude IDS Based on Frequent Itemset Algorythm
+# Crude IDS Based on Association Rule Mining
 
 |Nama|NRP|
 |-|-|
 |Mohamad Valdi Ananda Tauhid|5025221238|
 
-- Creating a crude IDS system based on frequent itemset algorythm
+- Creating a crude IDS system based on frequent itemset algorythms
 - Detecting a threat connection from its connection detail
-- Comparing the performance of FP-Growth and Apriory
+- Comparing the performance of FP-Growth and Apriori
 
 ## References
 
